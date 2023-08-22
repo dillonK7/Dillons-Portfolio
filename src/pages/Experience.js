@@ -20,18 +20,17 @@ function Experience() {
           </h3>
           <h4>Remote, <i>June 2022 - July 2023</i></h4>
           <p><ul>
-            <li>Led the merging of acquired company data into the enterprise software as part of a company
+            <li>Guided the merging of acquired company data into the enterprise software as part of a company
               consolidation effort, ensuring seamless integration of billing servers, customer product keys and
-              CRM data.</li>
-            <li>Coordinated the installation of third-party platforms into the company’s enterprise software,
+              Salesforce data.</li>
+            <li>Coordinated the installation of third-party platforms into the company’s Salesforce instance,
               managing deliverables of multiple departments and ensuring adherence to project timelines.</li>
             <li>Administered User Acceptance Testing (UAT) for the new integrations, setting schedules,
               coordinating testing efforts, and facilitating communication between developers, testers, and
               designers.</li>
             <li>Set schedules for testing and user acceptance, reported, and tracked identified bugs, and
               facilitated resolution and feedback loop between development and testing teams. </li>
-            <li> Created user stories and acceptance criteria while prioritizing stories to create maximum business
-              value that aligns with product strategy.</li>
+            
           </ul></p>
         </VerticalTimelineElement>
 
@@ -47,7 +46,7 @@ function Experience() {
           <h4>Lorton, Virigina, <i>Summers 2028, 2019</i></h4>
           <p><ul>
             <li> Managed the company database to access client records for all Michigan residents. </li>
-            <li>Handled 100+ daily inbound calls, providing account support and addressing program issues.</li>
+            <li>Handled daily inbound calls while providing account support and addressing program issues.</li>
             <li>Passed state background check every year to continue intern position. </li>
             </ul> </p>
         </VerticalTimelineElement>

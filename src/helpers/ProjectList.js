@@ -1,18 +1,21 @@
+import gitRepo from "../assets/GitRepo.png"
+import tbd from "../assets/TBD.png"
 import img1 from "../assets/img1.png"
-import img2 from "../assets/img2.jpg"
 
 
 //List of projects Called into Projects.js and keeps it simple
 export const projectList = [
     {
-        name: "test project",
-        image: img1,
-        skills: "Test, test, test",
+        name: "Capstone Project",
+        image: gitRepo,
+        skills: "C#, .NET, SQL, ASP",       
+        link: "https://github.com/dillonK7/Lab1_Part3_DillonKrein/tree/master/Lab1_Part3_DillonKrein",
     },
     {
-        name: "test project 2",
-        image: img2,
-        skills: "Test, test, test",
+        name: "TBD",
+        image: tbd,
+        skills: "TBD",
+        link: "TBD",
     }
     
 
