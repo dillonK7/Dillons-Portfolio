@@ -14,6 +14,7 @@
   align-items: center;
   text-align: center;
   background-color: #21325e;
+  background: linear-gradient( #21325e, rgb(24, 23, 26));
   color: #f0f0f0;
 }
 

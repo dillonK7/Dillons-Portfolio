@@ -25,6 +25,10 @@ function Experience() {
               Salesforce data.</li>
             <li>Coordinated the installation of third-party platforms into the company’s Salesforce instance,
               managing deliverables of multiple departments and ensuring adherence to project timelines.</li>
+            <li>Administration of Salesforce systems, addressing issues promptly, and enhancing user experiences by optimizing role-based page layouts.</li>
+            <li>Systematic revisions of the Salesforce environment, ensuring system security through techniques of least privilege and defense-in-depth.</li>
+            <li>Documented comprehensive software requirements capturing scope, user stories, and acceptance criteria, 
+              facilitating seamless communication between stakeholders and the development team.</li>
             <li>Administered User Acceptance Testing (UAT) for the new integrations, setting schedules,
               coordinating testing efforts, and facilitating communication between developers, testers, and
               designers.</li>
